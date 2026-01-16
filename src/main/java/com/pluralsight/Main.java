@@ -11,9 +11,6 @@ import java.util.Scanner;
 
 public class Main {
 
-    //hi nisa
-    //hello johnny
-
     public static ArrayList<Transactions> transactionHistory = getTransactionFromFile();
 
     //━━━━━━━━━━━━━━━━━━━━⊱⋆Main Menu and Choices⋆⊰━━━━━━━━━━━━━━━━━━━━
