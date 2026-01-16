@@ -264,8 +264,7 @@ public class Main {
                 System.out.println(t);    // Print the transaction details if it matches the current year
             }
         }
-        System.out.println();
-        System.out.println("The fairy's scroll has revealed every coin and trade from this moon cycle.");
+        System.out.println("\nThe fairy's scroll has revealed every coin and trade from this moon cycle.");
     }
     private static void viewPreviousMonth(){
 
@@ -277,8 +276,7 @@ public class Main {
                 System.out.println(t);
             }
         }
-        System.out.println();
-        System.out.println("The fairy's scroll has revealed every coin and trade from the last moon cycle.");
+        System.out.println("\nThe fairy's scroll has revealed every coin and trade from the last moon cycle.");
     }
     private static void viewYearToDate(){
 
@@ -288,8 +286,7 @@ public class Main {
                 System.out.println(t);
             }
         }
-        System.out.println();
-        System.out.println("Every coin and trade from this year sparkles before you - what a treasure trove!");
+        System.out.println("\nEvery coin and trade from this year sparkles before you - what a treasure trove!");
     }
     private static void viewPreviousYear(){
 
@@ -299,8 +296,7 @@ public class Main {
                 System.out.println(t);
             }
         }
-        System.out.println();
-        System.out.println("Every coin and trade from last year sparkles before you - what a treasure trove!");
+        System.out.println("\nEvery coin and trade from last year sparkles before you - what a treasure trove!");
 
     }
     private static void searchByVendor(){
